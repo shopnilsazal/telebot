@@ -1,0 +1,9 @@
+amqp==2.1.1
+billiard==3.5.0.2
+celery==4.0.0
+Django==1.10.3
+kombu==4.0.0
+pytz==2016.7
+redis==2.10.5
+requests==2.12.1
+vine==1.1.3
